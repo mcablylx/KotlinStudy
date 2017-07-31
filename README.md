@@ -5,7 +5,7 @@
 	暂无
 ## 一, Kotlin关键字
 ##### 1.运算操作符(operator)
-&ensp;&ensp;kotlin允许重载运算符.比如(+,-)等.可以查看[OperatorStudy.kt](https://github.com/mcablylx/KotlinStudy/blob/master/OperatorOverloading/src/top/mcablylx/kotlin/OperatorStudy.kt)
+&ensp;&ensp;kotlin允许重载运算符.比如(+,-)等.可以查看[OperatorStudy.kt](https://github.com/mcablylx/KotlinStudy/blob/master/OperatorOverloading/src/top/mcablylx/kotlin/OperatorStudy.kt){:target="_blank"}
 
 ##### 2.中缀表达式(infix)
 &ensp;&ensp;kotlin中缀表达式其实就是只有一个参数的扩展函数.然后用infix标记即可.可以查看[InfixStudy.kt](https://github.com/mcablylx/KotlinStudy/blob/master/OperatorOverloading/src/top/mcablylx/kotlin/InfixStudy.kt)
