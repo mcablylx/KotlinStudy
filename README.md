@@ -10,4 +10,7 @@
 ##### 2.中缀表达式(infix)
 &ensp;&ensp;kotlin中缀表达式其实就是只有一个参数的扩展函数.然后用infix标记即可.可以查看[InfixStudy.kt](https://github.com/mcablylx/KotlinStudy/blob/master/OperatorOverloading/src/top/mcablylx/kotlin/InfixStudy.kt)
 
+##### 3.注解(annotation)
+&ensp;&ensp;kotlin注解是将元数据添加到代码的方法.可查看[Mcablylx.kt](https://github.com/mcablylx/KotlinStudy/blob/master/OperatorOverloading/src/top/mcablylx/kotlin/Mcablylx.kt),只做简单的介绍...后续开发中用到再研究.可看[kotlin官方文档](https://www.kotlincn.net/docs/reference/annotations.html)进行查看
+
 ## 二, Kotlin语法
